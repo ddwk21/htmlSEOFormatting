@@ -13,6 +13,8 @@ The page is search engine optimized through use of Semantic HTML, proper use of 
 
 Alt text is also responsible for accessibility, being used by screenreaders to describe images.
 
+![A screenshot of the entire webpage](/assets/images/page-screenshot.png?raw=true "Page Screenshot")
+
 ## SEO
 Through use of alt text and proper semantics as described above, the page is "search engine optimized",
 
@@ -20,3 +22,7 @@ this means it should appear higher in search results through sites such as Googl
 
 ## Accessibility
 Anyone using a screen reader will get a clear description of the nature of the page.
+
+## Nav Bar
+Fully functional navigation links will take you wherever you need to go on the page.
+![A screenshot of the navbar links](/assets/images/navbar.png?raw=true "Navbar Screenshot")
