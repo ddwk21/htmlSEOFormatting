@@ -68,7 +68,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -99,18 +99,18 @@ aside img {
     max-width: 150px;
 }/*sets properties for benefit box images*/
 
-.content section {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
 }/*sets display properties for 3 main content boxes*/
 
-.content img {
+main img {
     max-height: 200px;
 }/*Set image dimension properties for images in main content boxes*/
 
-.content h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }/*Set header properties for main content boxes*/
