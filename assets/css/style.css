@@ -4,7 +4,7 @@
     margin: 0;
     color: #ffffff; /*Default font color for all elements*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}/*generally setting element global defaults*/
+}/*generally setting element global defaults, overridden by later definitions*/
 
 body {
     background-color: #d9dcd6;
