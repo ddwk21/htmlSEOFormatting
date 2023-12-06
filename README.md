@@ -1,6 +1,6 @@
 # Horiseon Social Solution Services
 Webpage documentation for Horiseon
-Web Address: https://ddwk21.github.io/week-one-challenge/
+Web Address: https://ddwk21.github.io/htmlSEOFormatting/
 
 ## Summary
 This landing page outlines primary services offered by Horiseon.
